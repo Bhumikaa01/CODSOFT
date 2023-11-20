@@ -1,5 +1,6 @@
 # CODSOFT
 UI/UX Design Internship
+I designed a Sign-Up Flow
 Tool Used- Figma
 
 Task 1- Mobile Sign Up Flow
